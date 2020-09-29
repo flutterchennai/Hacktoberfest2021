@@ -1,4 +1,6 @@
-<p align="center"><img src="https://github.com/flutterchennai/Hacktoberfest2020/blob/master/Logo%20Sponsors%20Light.png" /></p>
+<p align="center"><img src="https://github.com/flutterchennai/Hacktoberfest2020/blob/master/Logo%20Sponsors%20Light.png" width="55%"/></p>
+
+<br>
 
 | Repositories               | Issues | Pull Request | Forks | Languages |
 |----------------------------|--------|--------------|-------|-----------|
