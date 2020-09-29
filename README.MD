@@ -1,3 +1,5 @@
+<p align="center"><img src="https://github.com/flutterchennai/Hacktoberfest2020/blob/master/Logo%20Sponsors%20Light.png" /></p>
+
 | Repositories               | Issues | Pull Request | Forks | Languages |
 |----------------------------|--------|--------------|-------|-----------|
 | [Social Scheduler](https://github.com/anushbhatia/Social-Scheduler)           | [![GitHub issues](https://img.shields.io/github/issues/anushbhatia/Social-Scheduler?color=red&logo=github&style=flat-square)](https://github.com/anushbhatia/Social-Scheduler/issues)       | [![GitHub PRs](https://img.shields.io/github/issues-pr/anushbhatia/Social-Scheduler?style=flat-square&logo=github)](https://github.com/anushbhatia/Social-Scheduler/pulls)             | [![GitHub forks](https://img.shields.io/github/forks/anushbhatia/Social-Scheduler?style=flat-square&logo=git)](https://github.com/anushbhatia/Social-Scheduler/network)      | Javascript, CSS          |
