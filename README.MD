@@ -14,3 +14,15 @@
 | [Relic Bazaar](https://github.com/himanshusharma89/relic_bazaar)           | [![GitHub issues](https://img.shields.io/github/issues/himanshusharma89/relic_bazaar?color=red&logo=github&style=flat-square)](https://github.com/himanshusharma89/relic_bazaar/issues)       | [![GitHub PRs](https://img.shields.io/github/issues-pr/himanshusharma89/relic_bazaar?style=flat-square&logo=github)](https://github.com/himanshusharma89/relic_bazaar/pulls)             | [![GitHub forks](https://img.shields.io/github/forks/himanshusharma89/relic_bazaar?style=flat-square&logo=git)](https://github.com/himanshusharma89/relic_bazaar/network)      | Flutter, Dart          |
 | [Chatter App](https://github.com/ishandeveloper/Chatter-App)           | [![GitHub issues](https://img.shields.io/github/issues/ishandeveloper/Chatter-App?color=red&logo=github&style=flat-square)](https://github.com/ishandeveloper/Chatter-App/issues)       | [![GitHub PRs](https://img.shields.io/github/issues-pr/ishandeveloper/Chatter-App?style=flat-square&logo=github)](https://github.com/ishandeveloper/Chatter-App/pulls)             | [![GitHub forks](https://img.shields.io/github/forks/ishandeveloper/Chatter-App?style=flat-square&logo=git)](https://github.com/ishandeveloper/Chatter-App/network)      | Flutter, Dart          |
 | [Blog App](https://github.com/himanshusharma89/Flutter-Blog-App)           | [![GitHub issues](https://img.shields.io/github/issues/himanshusharma89/Flutter-Blog-App?color=red&logo=github&style=flat-square)](https://github.com/himanshusharma89/Flutter-Blog-App/issues)       | [![GitHub PRs](https://img.shields.io/github/issues-pr/himanshusharma89/Flutter-Blog-App?style=flat-square&logo=github)](https://github.com/himanshusharma89/Flutter-Blog-App/pulls)             | [![GitHub forks](https://img.shields.io/github/forks/himanshusharma89/Flutter-Blog-App?style=flat-square&logo=git)](https://github.com/himanshusharma89/Flutter-Blog-App/network)      | Flutter, Dart          |
+
+## Maintainers
+
+<h4 align="center">
+<a href="https://github.com/himanshusharma89">
+<b>Himanshu Sharma</b></a>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+<a href="https://github.com/smaranjitghose">
+<b>Smaranjit Ghose</b>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+<a href="https://github.com/ishandeveloper">
+<b>Ishan  Sharma</b>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+<a href="https://github.com/anushbhatia">
+<b>Anush Bhatia</b></h4>
