@@ -20,7 +20,3 @@
 |<img src="https://avatars2.githubusercontent.com/u/44980497?v=4">|<img src="https://avatars2.githubusercontent.com/u/46641503?v=4">|<img src="https://avatars3.githubusercontent.com/u/54989142?v=4">|<img src="https://avatars3.githubusercontent.com/u/40017559?v=4">|
 |----------------------------|--------|----------------------------|--------|
 |[Himanshu Sharma](https://github.com/himanshusharma89)|[Smaranjit Ghose](https://github.com/smaranjitghose)|[Ishan Sharma](https://github.com/ishandeveloper)|[Anush Bhatia](https://github.com/anushbhatia)|
-
-
-|<a href="https://github.com/himanshusharma89"><b>Himanshu Sharma</b>|<a href="https://github.com/smaranjitghose">
-<b>Smaranjit Ghose</b>|<a href="https://github.com/ishandeveloper"><b>Ishan Sharma</b>|<a href="https://github.com/anushbhatia"><b>Anush Bhatia</b>|
